@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>form pesanan2</title>
+<body>
+  <p> Title Here     :MocBook air £800</p>
+  <p> Description    :Year:2004 </p>
+                      <p>model:</p>
+                      <p>condition:mint</p>
+  <p>Total Amout     :£800</p>   
+  <p>Pay to          :123-456-789-0</p>
+  <tr>
+   <p>Payment Type   :</p>     <tr>
+    <td> Visa Deb: </td>
+    <td><Select name="Visa Debit"><option>debit</option><option>non debit</option><option>cash</option></select></td>
+   </tr>
+   
+   <tr>      
+     <p><td> Account Holder:</td></p>
+     <td><input type="email" name="email"></td>
+    </tr>
+   
+   <tr>
+    <p><td>Accoun No:</td></p>
+    <td><input type="123-456-789-0"></td>
+   </tr>
+   
+   <tr>
+     <p><td>Send to Mobile Phone:</td></p>
+     <td><input type="1234567890,1234567891"></td>
+   </tr>
+   
+   <tr>
+     <p><td> Send to Email:</td></p>
+     <td><input type="email"></td>
+   </tr>
+    </html>
+    </head>
+   </body>
