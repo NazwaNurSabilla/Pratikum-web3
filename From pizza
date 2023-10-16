@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Form makanan</title>
+  </head>
+  <body>
+    <fieldset>
+      <legend>
+        <h2>pemesanan pizza</h2>
+      </legend>
+        <p>our 12 fired pizzas are available for delivery</p>
+      <form action="menthod"
+      <p> Your Information </p>
+      
+      <label for="name">name</label>
+      <input type="text" id="name">
+  <br>
+  <br>
+      <label for="address">address :</label>
+      <input type ="text" id="name">
+  <br>
+  <br>
+      <label for="hp">Telephone Number :</label>
+      <input type ="Number" id="name">
+  <br>
+  <br>
+      <label for="email ">email :</label>
+      <input type= "email" id="email">
+  <br>
+  <br>
+    <label> for= "catatan" Dalivery intruction :</label>
+    <textarea id= "catatan" rows = "4" cols ="50"></textarea>
+  <br>
+  <br> 
+    <h3> Design Your dream pizza </h3>
+    <p> pizza sprecs</p>
+    
+    <p> cruct (choose one): </p>
+    
+    <input type="radio" id="html" name="crust">
+    <label for="CW" >Classic White </label><br>
+    
+    <input type="radio" id="html" name="crust">
+    <label for="MG >multigrain </label><br>
+    
+    <input type ="radio"id="html" name="crust">
+    <label for="CSC">cheese-stuffed crus</label><br>   
+    
+    <input type="radio" id="html" name="crust">
+    <label for="GF">Cluten-free </label><br>
+    
+  <br>  
+  <br>
+   
+     <p>Toppings (choose as many as you want)
+  <br>
+  <br>
+     <input type="checkbox"id = "redsauce" name="vehivlel">
+     <label for="redsauce">Red Sauce</label><br>
+     
+     <input type="checkbox"id = "redsauce" name="vehivlel">
+      <label for="Whitesauce">Whitesauce </label><br>
+      
+      <input type="checkbox"id = "redsauce" name="vehivlel">
+      <label for="mozzarellacheese">mozzarellacheese</label><br>
+      
+  <br> 
+  <br>
+       <p> Number </p>
+       <p> How many pizza </p>
+       <input type="number">
+       
+  <br>
+  <br>
+      <input type="submit" value ="bring me a pizza">
+    </fieldset>
+  </body>
+</html>
