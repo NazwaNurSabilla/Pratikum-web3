@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> form2 </title>
+  </head>
+  <body>
+   <h2 align="center">THANK YOU</h2> 
+  <hr>
+    <p> Thank you for ordering from Black goose Bistro.We have received the following information about your order:</p>
+    <p style="color:red"> Your Information</p>
+    <p> name                 :Jennifer Robbins</p>
+    <p> address              :123street</p>
+    <p>telephone number      :555-1213</p>
+    <p>email address         :jen@example.com</p>
+    <p>Delivery Instructions :Ring the middle buzzer.if nobody answers,text me.</p>
+  
+    <p style="color:red">Your Pizza </p>
+  
+    <p>Crust    : white</p>
+    <p> Toppings: red sauce,mozzarella,pepperoni,mushrooms</p>
+    <p>Number   :1</p>
+  <hr> 
+  </body>
